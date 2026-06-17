@@ -1,0 +1,2033 @@
+{
+    "audios": [
+        {
+            "audio_id": "39RxQKpnTVc_0.154_9.717",
+            "label": 1,
+            "onset_offset": "0.154_9.717",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/39RxQKpnTVc_0.154_9.717.wav",
+            "tier": "macro",
+            "caption": "Dog whimpering and humans laughing",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/39RxQKpnTVc.wav"
+        },
+        {
+            "audio_id": "39RxQKpnTVc",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/39RxQKpnTVc.wav",
+            "tier": "macro",
+            "caption": "Dog whimpering and humans laughing"
+        },
+        {
+            "audio_id": "t6LuU4b26k4_1.223_9.66",
+            "label": 1,
+            "onset_offset": "1.223_9.66",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/t6LuU4b26k4_1.223_9.66.wav",
+            "tier": "macro",
+            "caption": "Horses snorting and neighing as two men talk in the distance while the paper is crinkling",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/t6LuU4b26k4.wav"
+        },
+        {
+            "audio_id": "t6LuU4b26k4",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/t6LuU4b26k4.wav",
+            "tier": "macro",
+            "caption": "Horses snorting and neighing as two men talk in the distance while the paper is crinkling"
+        },
+        {
+            "audio_id": "lEP8RP33r2A_1.23_9.676",
+            "label": 1,
+            "onset_offset": "1.23_9.676",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/lEP8RP33r2A_1.23_9.676.wav",
+            "tier": "macro",
+            "caption": "Scuffing and scraping are accompanied by random quiet clattering and clicking, and an adult male is speaking in the background",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/lEP8RP33r2A.wav"
+        },
+        {
+            "audio_id": "lEP8RP33r2A",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/lEP8RP33r2A.wav",
+            "tier": "macro",
+            "caption": "Scuffing and scraping are accompanied by random quiet clattering and clicking, and an adult male is speaking in the background"
+        },
+        {
+            "audio_id": "qs3mXlKfxLU_0.168_9.5",
+            "label": 1,
+            "onset_offset": "0.168_9.5",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/qs3mXlKfxLU_0.168_9.5.wav",
+            "tier": "macro",
+            "caption": "Continuous train horn",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/qs3mXlKfxLU.wav"
+        },
+        {
+            "audio_id": "qs3mXlKfxLU",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/qs3mXlKfxLU.wav",
+            "tier": "macro",
+            "caption": "Continuous train horn"
+        },
+        {
+            "audio_id": "IryLRJ2P_qQ_0.859_9.952",
+            "label": 1,
+            "onset_offset": "0.859_9.952",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/IryLRJ2P_qQ_0.859_9.952.wav",
+            "tier": "macro",
+            "caption": "An insect buzzing intermittently",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/IryLRJ2P_qQ.wav"
+        },
+        {
+            "audio_id": "IryLRJ2P_qQ",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/IryLRJ2P_qQ.wav",
+            "tier": "macro",
+            "caption": "An insect buzzing intermittently"
+        },
+        {
+            "audio_id": "0Wn_bpgDARc_0.844_9.788",
+            "label": 1,
+            "onset_offset": "0.844_9.788",
+            "filepath": "FakeSound/deepfake_data-longshort/long/0Wn_bpgDARc_0.844_9.788.wav",
+            "tier": "long"
+        },
+        {
+            "audio_id": "0Wn_bpgDARc",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data-longshort/long/0Wn_bpgDARc.wav",
+            "tier": "long"
+        },
+        {
+            "audio_id": "67qTV1MDXhc_1.444_9.997",
+            "label": 1,
+            "onset_offset": "1.444_9.997",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/67qTV1MDXhc_1.444_9.997.wav",
+            "tier": "macro",
+            "caption": "A bell chiming",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/67qTV1MDXhc.wav"
+        },
+        {
+            "audio_id": "67qTV1MDXhc",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/67qTV1MDXhc.wav",
+            "tier": "macro",
+            "caption": "A bell chiming"
+        },
+        {
+            "audio_id": "RyWcNkMv27Q_1.444_9.997",
+            "label": 1,
+            "onset_offset": "1.444_9.997",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/RyWcNkMv27Q_1.444_9.997.wav",
+            "tier": "macro",
+            "caption": "Stiring clinking then male speaking",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/RyWcNkMv27Q.wav"
+        },
+        {
+            "audio_id": "RyWcNkMv27Q",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/RyWcNkMv27Q.wav",
+            "tier": "macro",
+            "caption": "Stiring clinking then male speaking"
+        },
+        {
+            "audio_id": "3eK62q7SnVU_0.017_9.396",
+            "label": 1,
+            "onset_offset": "0.017_9.396",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/3eK62q7SnVU_0.017_9.396.wav",
+            "tier": "macro",
+            "caption": "The wind is blowing and rustling occurs",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/3eK62q7SnVU.wav"
+        },
+        {
+            "audio_id": "3eK62q7SnVU",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/3eK62q7SnVU.wav",
+            "tier": "macro",
+            "caption": "The wind is blowing and rustling occurs"
+        },
+        {
+            "audio_id": "QS8t1QDrxfo_1.44_9.94",
+            "label": 1,
+            "onset_offset": "1.44_9.94",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/QS8t1QDrxfo_1.44_9.94.wav",
+            "tier": "macro",
+            "caption": "A rooster crows and birds chirp followed by spraying and people speaking as music plays",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/QS8t1QDrxfo.wav"
+        },
+        {
+            "audio_id": "QS8t1QDrxfo",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/QS8t1QDrxfo.wav",
+            "tier": "macro",
+            "caption": "A rooster crows and birds chirp followed by spraying and people speaking as music plays"
+        },
+        {
+            "audio_id": "RXE39pZXG3M_0.905_9.728",
+            "label": 1,
+            "onset_offset": "0.905_9.728",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/RXE39pZXG3M_0.905_9.728.wav",
+            "tier": "macro",
+            "caption": "A few slams are followed by referee whistles",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/RXE39pZXG3M.wav"
+        },
+        {
+            "audio_id": "RXE39pZXG3M",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/RXE39pZXG3M.wav",
+            "tier": "macro",
+            "caption": "A few slams are followed by referee whistles"
+        },
+        {
+            "audio_id": "HXI60nu_tII_0.453_9.631",
+            "label": 1,
+            "onset_offset": "0.453_9.631",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/HXI60nu_tII_0.453_9.631.wav",
+            "tier": "macro",
+            "caption": "People talks nearby as bees buzz loudly and rapidly",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/HXI60nu_tII.wav"
+        },
+        {
+            "audio_id": "HXI60nu_tII",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/HXI60nu_tII.wav",
+            "tier": "macro",
+            "caption": "People talks nearby as bees buzz loudly and rapidly"
+        },
+        {
+            "audio_id": "77VHwpyq6xo_0.366_9.798",
+            "label": 1,
+            "onset_offset": "0.366_9.798",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/77VHwpyq6xo_0.366_9.798.wav",
+            "tier": "macro",
+            "caption": "A dog barks while people speak",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/77VHwpyq6xo.wav"
+        },
+        {
+            "audio_id": "77VHwpyq6xo",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/77VHwpyq6xo.wav",
+            "tier": "macro",
+            "caption": "A dog barks while people speak"
+        },
+        {
+            "audio_id": "OzmtIGIsh7Y_0.406_9.425",
+            "label": 1,
+            "onset_offset": "0.406_9.425",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/OzmtIGIsh7Y_0.406_9.425.wav",
+            "tier": "macro",
+            "caption": "A man is speaking then a sewing machine briefly turns on and off",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/OzmtIGIsh7Y.wav"
+        },
+        {
+            "audio_id": "OzmtIGIsh7Y",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/OzmtIGIsh7Y.wav",
+            "tier": "macro",
+            "caption": "A man is speaking then a sewing machine briefly turns on and off"
+        },
+        {
+            "audio_id": "5BT1UhqoSEU_0.085_9.408",
+            "label": 1,
+            "onset_offset": "0.085_9.408",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/5BT1UhqoSEU_0.085_9.408.wav",
+            "tier": "macro",
+            "caption": "Two men are having a conversation then an engine is started up",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/5BT1UhqoSEU.wav"
+        },
+        {
+            "audio_id": "5BT1UhqoSEU",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/5BT1UhqoSEU.wav",
+            "tier": "macro",
+            "caption": "Two men are having a conversation then an engine is started up"
+        },
+        {
+            "audio_id": "EPSPjAR8ztY_0.136_9.145",
+            "label": 1,
+            "onset_offset": "0.136_9.145",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/EPSPjAR8ztY_0.136_9.145.wav",
+            "tier": "macro",
+            "caption": "A crowd applause loudly nearby as a person talks in the distance",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/EPSPjAR8ztY.wav"
+        },
+        {
+            "audio_id": "EPSPjAR8ztY",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/EPSPjAR8ztY.wav",
+            "tier": "macro",
+            "caption": "A crowd applause loudly nearby as a person talks in the distance"
+        },
+        {
+            "audio_id": "DAvTcB127pA_0.151_9.894",
+            "label": 1,
+            "onset_offset": "0.151_9.894",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/DAvTcB127pA_0.151_9.894.wav",
+            "tier": "macro",
+            "caption": "A duck quacks many times and then a man talks and a gunshot rings out",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/DAvTcB127pA.wav"
+        },
+        {
+            "audio_id": "DAvTcB127pA",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/DAvTcB127pA.wav",
+            "tier": "macro",
+            "caption": "A duck quacks many times and then a man talks and a gunshot rings out"
+        },
+        {
+            "audio_id": "-62RXhX5GZk_1.142_9.878",
+            "label": 1,
+            "onset_offset": "1.142_9.878",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/-62RXhX5GZk_1.142_9.878.wav",
+            "tier": "macro",
+            "caption": "A dog grunts and an adult male speaks",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/-62RXhX5GZk.wav"
+        },
+        {
+            "audio_id": "-62RXhX5GZk",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/-62RXhX5GZk.wav",
+            "tier": "macro",
+            "caption": "A dog grunts and an adult male speaks"
+        },
+        {
+            "audio_id": "YIdwyX9GX80_0.409_9.488",
+            "label": 1,
+            "onset_offset": "0.409_9.488",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/YIdwyX9GX80_0.409_9.488.wav",
+            "tier": "macro",
+            "caption": "Typing on keyboard male speaking",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/YIdwyX9GX80.wav"
+        },
+        {
+            "audio_id": "YIdwyX9GX80",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/YIdwyX9GX80.wav",
+            "tier": "macro",
+            "caption": "Typing on keyboard male speaking"
+        },
+        {
+            "audio_id": "1LSmPtw0dZE_0.465_9.896",
+            "label": 1,
+            "onset_offset": "0.465_9.896",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/1LSmPtw0dZE_0.465_9.896.wav",
+            "tier": "macro",
+            "caption": "A sheep lets out two deep bleats",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/1LSmPtw0dZE.wav"
+        },
+        {
+            "audio_id": "1LSmPtw0dZE",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/1LSmPtw0dZE.wav",
+            "tier": "macro",
+            "caption": "A sheep lets out two deep bleats"
+        },
+        {
+            "audio_id": "1VSLSGXlG1s_0.087_8.96",
+            "label": 1,
+            "onset_offset": "0.087_8.96",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/1VSLSGXlG1s_0.087_8.96.wav",
+            "tier": "macro",
+            "caption": "Screaming in the distance mixed with explosions and gunfire",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/1VSLSGXlG1s.wav"
+        },
+        {
+            "audio_id": "1VSLSGXlG1s",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/1VSLSGXlG1s.wav",
+            "tier": "macro",
+            "caption": "Screaming in the distance mixed with explosions and gunfire"
+        },
+        {
+            "audio_id": "vYes7leuOZ4_0.961_9.248",
+            "label": 1,
+            "onset_offset": "0.961_9.248",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/vYes7leuOZ4_0.961_9.248.wav",
+            "tier": "macro",
+            "caption": "Several horses run while a woman talks and shouts",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/vYes7leuOZ4.wav"
+        },
+        {
+            "audio_id": "vYes7leuOZ4",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/vYes7leuOZ4.wav",
+            "tier": "macro",
+            "caption": "Several horses run while a woman talks and shouts"
+        },
+        {
+            "audio_id": "6k-Z4LkDWGw_0.707_9.458",
+            "label": 1,
+            "onset_offset": "0.707_9.458",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/6k-Z4LkDWGw_0.707_9.458.wav",
+            "tier": "macro",
+            "caption": "Music plays as a man speaks and helicopters pass by",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/6k-Z4LkDWGw.wav"
+        },
+        {
+            "audio_id": "6k-Z4LkDWGw",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/6k-Z4LkDWGw.wav",
+            "tier": "macro",
+            "caption": "Music plays as a man speaks and helicopters pass by"
+        },
+        {
+            "audio_id": "67zyxZb-wQM_1.124_9.755",
+            "label": 1,
+            "onset_offset": "1.124_9.755",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/67zyxZb-wQM_1.124_9.755.wav",
+            "tier": "macro",
+            "caption": "A round of applause followed by a woman speaking",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/67zyxZb-wQM.wav"
+        },
+        {
+            "audio_id": "67zyxZb-wQM",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/67zyxZb-wQM.wav",
+            "tier": "macro",
+            "caption": "A round of applause followed by a woman speaking"
+        },
+        {
+            "audio_id": "aAl9yiGxdfQ_0.179_9.765",
+            "label": 1,
+            "onset_offset": "0.179_9.765",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/aAl9yiGxdfQ_0.179_9.765.wav",
+            "tier": "macro",
+            "caption": "A man speaks, and then a toilet flushes, followed by the man continuing to speak",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/aAl9yiGxdfQ.wav"
+        },
+        {
+            "audio_id": "aAl9yiGxdfQ",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/aAl9yiGxdfQ.wav",
+            "tier": "macro",
+            "caption": "A man speaks, and then a toilet flushes, followed by the man continuing to speak"
+        },
+        {
+            "audio_id": "9gRG7ZAukX4_1.783_9.978",
+            "label": 1,
+            "onset_offset": "1.783_9.978",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/9gRG7ZAukX4_1.783_9.978.wav",
+            "tier": "macro",
+            "caption": "Toilet flushing water",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/9gRG7ZAukX4.wav"
+        },
+        {
+            "audio_id": "9gRG7ZAukX4",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/9gRG7ZAukX4.wav",
+            "tier": "macro",
+            "caption": "Toilet flushing water"
+        },
+        {
+            "audio_id": "AkhJjWVxQPw_0.584_9.869",
+            "label": 1,
+            "onset_offset": "0.584_9.869",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/AkhJjWVxQPw_0.584_9.869.wav",
+            "tier": "macro",
+            "caption": "A woman speaks as food sizzles and stirred in a pan",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/AkhJjWVxQPw.wav"
+        },
+        {
+            "audio_id": "AkhJjWVxQPw",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/AkhJjWVxQPw.wav",
+            "tier": "macro",
+            "caption": "A woman speaks as food sizzles and stirred in a pan"
+        },
+        {
+            "audio_id": "3uxCklJYQto_0.188_9.871",
+            "label": 1,
+            "onset_offset": "0.188_9.871",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/3uxCklJYQto_0.188_9.871.wav",
+            "tier": "macro",
+            "caption": "Loud, fast-moving water",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/3uxCklJYQto.wav"
+        },
+        {
+            "audio_id": "3uxCklJYQto",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/3uxCklJYQto.wav",
+            "tier": "macro",
+            "caption": "Loud, fast-moving water"
+        },
+        {
+            "audio_id": "3uvRVGgRBBU_0.644_9.736",
+            "label": 1,
+            "onset_offset": "0.644_9.736",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/3uvRVGgRBBU_0.644_9.736.wav",
+            "tier": "macro",
+            "caption": "A group of different birds chirping",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/3uvRVGgRBBU.wav"
+        },
+        {
+            "audio_id": "3uvRVGgRBBU",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/3uvRVGgRBBU.wav",
+            "tier": "macro",
+            "caption": "A group of different birds chirping"
+        },
+        {
+            "audio_id": "77ZFT8HuVq0_0.673_9.961",
+            "label": 1,
+            "onset_offset": "0.673_9.961",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/77ZFT8HuVq0_0.673_9.961.wav",
+            "tier": "macro",
+            "caption": "A boat motor is running and then accelerates, and water is splashing",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/77ZFT8HuVq0.wav"
+        },
+        {
+            "audio_id": "77ZFT8HuVq0",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/77ZFT8HuVq0.wav",
+            "tier": "macro",
+            "caption": "A boat motor is running and then accelerates, and water is splashing"
+        },
+        {
+            "audio_id": "9gCfNKhR3-g_0.269_9.872",
+            "label": 1,
+            "onset_offset": "0.269_9.872",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/9gCfNKhR3-g_0.269_9.872.wav",
+            "tier": "macro",
+            "caption": "A loud siren is sounding continuously",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/9gCfNKhR3-g.wav"
+        },
+        {
+            "audio_id": "9gCfNKhR3-g",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/9gCfNKhR3-g.wav",
+            "tier": "macro",
+            "caption": "A loud siren is sounding continuously"
+        },
+        {
+            "audio_id": "Is4oH0_g21U_0.688_9.063",
+            "label": 1,
+            "onset_offset": "0.688_9.063",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/Is4oH0_g21U_0.688_9.063.wav",
+            "tier": "macro",
+            "caption": "A sheep bleats and some objects hit",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/Is4oH0_g21U.wav"
+        },
+        {
+            "audio_id": "Is4oH0_g21U",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/Is4oH0_g21U.wav",
+            "tier": "macro",
+            "caption": "A sheep bleats and some objects hit"
+        },
+        {
+            "audio_id": "-I777qzddsc_0.901_9.469",
+            "label": 1,
+            "onset_offset": "0.901_9.469",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/-I777qzddsc_0.901_9.469.wav",
+            "tier": "macro",
+            "caption": "A rumble and then a hiss",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/-I777qzddsc.wav"
+        },
+        {
+            "audio_id": "-I777qzddsc",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/-I777qzddsc.wav",
+            "tier": "macro",
+            "caption": "A rumble and then a hiss"
+        },
+        {
+            "audio_id": "RQXjTbjn1Eg_0.977_9.603",
+            "label": 1,
+            "onset_offset": "0.977_9.603",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/RQXjTbjn1Eg_0.977_9.603.wav",
+            "tier": "macro",
+            "caption": "A fast vehicle moves far away and a child shouts",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/RQXjTbjn1Eg.wav"
+        },
+        {
+            "audio_id": "RQXjTbjn1Eg",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/RQXjTbjn1Eg.wav",
+            "tier": "macro",
+            "caption": "A fast vehicle moves far away and a child shouts"
+        },
+        {
+            "audio_id": "1hdDxxnwD78_0.143_8.862",
+            "label": 1,
+            "onset_offset": "0.143_8.862",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/1hdDxxnwD78_0.143_8.862.wav",
+            "tier": "macro",
+            "caption": "Man speaking loudly",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/1hdDxxnwD78.wav"
+        },
+        {
+            "audio_id": "1hdDxxnwD78",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/1hdDxxnwD78.wav",
+            "tier": "macro",
+            "caption": "Man speaking loudly"
+        },
+        {
+            "audio_id": "1AgkEcH3TSw_1.417_9.455",
+            "label": 1,
+            "onset_offset": "1.417_9.455",
+            "filepath": "FakeSound/deepfake_data-longshort/long/1AgkEcH3TSw_1.417_9.455.wav",
+            "tier": "long"
+        },
+        {
+            "audio_id": "1AgkEcH3TSw",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data-longshort/long/1AgkEcH3TSw.wav",
+            "tier": "long"
+        },
+        {
+            "audio_id": "mAGcH_Z5v_U_0.644_9.736",
+            "label": 1,
+            "onset_offset": "0.644_9.736",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/mAGcH_Z5v_U_0.644_9.736.wav",
+            "tier": "macro",
+            "caption": "A man is speaking as sheep occasionally bleats",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/mAGcH_Z5v_U.wav"
+        },
+        {
+            "audio_id": "mAGcH_Z5v_U",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data-longshort/long/mAGcH_Z5v_U.wav",
+            "tier": "macro",
+            "caption": "A man is speaking as sheep occasionally bleats"
+        },
+        {
+            "audio_id": "TIJPKRt1WJU_1.172_9.662",
+            "label": 1,
+            "onset_offset": "1.172_9.662",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/TIJPKRt1WJU_1.172_9.662.wav",
+            "tier": "macro",
+            "caption": "A short sudden burst followed by a laugh",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/TIJPKRt1WJU.wav"
+        },
+        {
+            "audio_id": "TIJPKRt1WJU",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/TIJPKRt1WJU.wav",
+            "tier": "macro",
+            "caption": "A short sudden burst followed by a laugh"
+        },
+        {
+            "audio_id": "8jF5KAS1LkI_0.318_8.655",
+            "label": 1,
+            "onset_offset": "0.318_8.655",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/8jF5KAS1LkI_0.318_8.655.wav",
+            "tier": "macro",
+            "caption": "Females speech followed by a sewing machine in operation",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/8jF5KAS1LkI.wav"
+        },
+        {
+            "audio_id": "8jF5KAS1LkI",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/8jF5KAS1LkI.wav",
+            "tier": "macro",
+            "caption": "Females speech followed by a sewing machine in operation"
+        },
+        {
+            "audio_id": "1MvkvnEaWCg_0.99_9.187",
+            "label": 1,
+            "onset_offset": "0.99_9.187",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/1MvkvnEaWCg_0.99_9.187.wav",
+            "tier": "macro",
+            "caption": "The barking sound of a dog is heard with other animals there",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/1MvkvnEaWCg.wav"
+        },
+        {
+            "audio_id": "1MvkvnEaWCg",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/1MvkvnEaWCg.wav",
+            "tier": "macro",
+            "caption": "The barking sound of a dog is heard with other animals there"
+        },
+        {
+            "audio_id": "ld9qe2J9Huk_0.679_9.9",
+            "label": 1,
+            "onset_offset": "0.679_9.9",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/ld9qe2J9Huk_0.679_9.9.wav",
+            "tier": "macro",
+            "caption": "Someone snores briefly",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/ld9qe2J9Huk.wav"
+        },
+        {
+            "audio_id": "ld9qe2J9Huk",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/ld9qe2J9Huk.wav",
+            "tier": "macro",
+            "caption": "Someone snores briefly"
+        },
+        {
+            "audio_id": "3qOK68-L2cU_0.961_9.248",
+            "label": 1,
+            "onset_offset": "0.961_9.248",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/3qOK68-L2cU_0.961_9.248.wav",
+            "tier": "macro",
+            "caption": "An aircraft begins its takeoff, buzzing of small engines",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/3qOK68-L2cU.wav"
+        },
+        {
+            "audio_id": "3qOK68-L2cU",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/3qOK68-L2cU.wav",
+            "tier": "macro",
+            "caption": "An aircraft begins its takeoff, buzzing of small engines"
+        },
+        {
+            "audio_id": "6AO8_kTvsaM_0.664_9.962",
+            "label": 1,
+            "onset_offset": "0.664_9.962",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/6AO8_kTvsaM_0.664_9.962.wav",
+            "tier": "macro",
+            "caption": "A dog is growling, a bird calls, and an adult male speaks",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/6AO8_kTvsaM.wav"
+        },
+        {
+            "audio_id": "6AO8_kTvsaM",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/6AO8_kTvsaM.wav",
+            "tier": "macro",
+            "caption": "A dog is growling, a bird calls, and an adult male speaks"
+        },
+        {
+            "audio_id": "7fH2HbuIkss_0.693_9.39",
+            "label": 1,
+            "onset_offset": "0.693_9.39",
+            "filepath": "FakeSound/deepfake_data-longshort/long/7fH2HbuIkss_0.693_9.39.wav",
+            "tier": "long"
+        },
+        {
+            "audio_id": "7fH2HbuIkss",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data-longshort/long/7fH2HbuIkss.wav",
+            "tier": "long"
+        },
+        {
+            "audio_id": "xpUT30qUUaI_1.054_9.178",
+            "label": 1,
+            "onset_offset": "1.054_9.178",
+            "filepath": "FakeSound/deepfake_data-longshort/long/xpUT30qUUaI_1.054_9.178.wav",
+            "tier": "macro",
+            "caption": "Rustling and white noise followed by a sneeze",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/xpUT30qUUaI.wav"
+        },
+        {
+            "audio_id": "xpUT30qUUaI",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data-longshort/long/xpUT30qUUaI.wav",
+            "tier": "macro",
+            "caption": "Rustling and white noise followed by a sneeze"
+        },
+        {
+            "audio_id": "67yhKQpwvjo_0.185_9.33",
+            "label": 1,
+            "onset_offset": "0.185_9.33",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/67yhKQpwvjo_0.185_9.33.wav",
+            "tier": "macro",
+            "caption": "People speak followed by spraying, then a phone rings",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/67yhKQpwvjo.wav"
+        },
+        {
+            "audio_id": "67yhKQpwvjo",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/67yhKQpwvjo.wav",
+            "tier": "macro",
+            "caption": "People speak followed by spraying, then a phone rings"
+        },
+        {
+            "audio_id": "10ILs3Dvgds_0.173_9.965",
+            "label": 1,
+            "onset_offset": "0.173_9.965",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/10ILs3Dvgds_0.173_9.965.wav",
+            "tier": "macro",
+            "caption": "Someone is talking while someone is snoring",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/10ILs3Dvgds.wav"
+        },
+        {
+            "audio_id": "10ILs3Dvgds",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/10ILs3Dvgds.wav",
+            "tier": "macro",
+            "caption": "Someone is talking while someone is snoring"
+        },
+        {
+            "audio_id": "XlDKrMcrGNU_0.818_9.724",
+            "label": 1,
+            "onset_offset": "0.818_9.724",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/XlDKrMcrGNU_0.818_9.724.wav",
+            "tier": "macro",
+            "caption": "A machine is running and then stops",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/XlDKrMcrGNU.wav"
+        },
+        {
+            "audio_id": "XlDKrMcrGNU",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/XlDKrMcrGNU.wav",
+            "tier": "macro",
+            "caption": "A machine is running and then stops"
+        },
+        {
+            "audio_id": "JaFx0FqcMRo_0.288_8.365",
+            "label": 1,
+            "onset_offset": "0.288_8.365",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/JaFx0FqcMRo_0.288_8.365.wav",
+            "tier": "macro",
+            "caption": "Humming of an engine followed by a woman speaking and a burp",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/JaFx0FqcMRo.wav"
+        },
+        {
+            "audio_id": "JaFx0FqcMRo",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/JaFx0FqcMRo.wav",
+            "tier": "macro",
+            "caption": "Humming of an engine followed by a woman speaking and a burp"
+        },
+        {
+            "audio_id": "4Hz53AafH7s_0.775_9.747",
+            "label": 1,
+            "onset_offset": "0.775_9.747",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/4Hz53AafH7s_0.775_9.747.wav",
+            "tier": "macro",
+            "caption": "Motor slowing down",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/4Hz53AafH7s.wav"
+        },
+        {
+            "audio_id": "4Hz53AafH7s",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/4Hz53AafH7s.wav",
+            "tier": "macro",
+            "caption": "Motor slowing down"
+        },
+        {
+            "audio_id": "1e634my5Pgo_0.017_9.396",
+            "label": 1,
+            "onset_offset": "0.017_9.396",
+            "filepath": "FakeSound/deepfake_data-longshort/long/1e634my5Pgo_0.017_9.396.wav",
+            "tier": "long"
+        },
+        {
+            "audio_id": "1e634my5Pgo",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data-longshort/long/1e634my5Pgo.wav",
+            "tier": "long"
+        },
+        {
+            "audio_id": "2ggJBDbgH-o_0.224_9.331",
+            "label": 1,
+            "onset_offset": "0.224_9.331",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/2ggJBDbgH-o_0.224_9.331.wav",
+            "tier": "macro",
+            "caption": "A woman speaks, a man screams and they both laugh",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/2ggJBDbgH-o.wav"
+        },
+        {
+            "audio_id": "2ggJBDbgH-o",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/2ggJBDbgH-o.wav",
+            "tier": "macro",
+            "caption": "A woman speaks, a man screams and they both laugh"
+        },
+        {
+            "audio_id": "g-uqyDcbnA4_0.399_9.751",
+            "label": 1,
+            "onset_offset": "0.399_9.751",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/g-uqyDcbnA4_0.399_9.751.wav",
+            "tier": "macro",
+            "caption": "Wind blowing followed by wood cracking",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/g-uqyDcbnA4.wav"
+        },
+        {
+            "audio_id": "g-uqyDcbnA4",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/g-uqyDcbnA4.wav",
+            "tier": "macro",
+            "caption": "Wind blowing followed by wood cracking"
+        },
+        {
+            "audio_id": "2ZOCs9f7m0M_0.709_9.61",
+            "label": 1,
+            "onset_offset": "0.709_9.61",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/2ZOCs9f7m0M_0.709_9.61.wav",
+            "tier": "macro",
+            "caption": "A man is speaking and dishes are clanging together",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/2ZOCs9f7m0M.wav"
+        },
+        {
+            "audio_id": "2ZOCs9f7m0M",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/2ZOCs9f7m0M.wav",
+            "tier": "macro",
+            "caption": "A man is speaking and dishes are clanging together"
+        },
+        {
+            "audio_id": "4C-Abooz-OA_1.228_9.583",
+            "label": 1,
+            "onset_offset": "1.228_9.583",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/4C-Abooz-OA_1.228_9.583.wav",
+            "tier": "macro",
+            "caption": "The engine of a small machine pulling chains",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/4C-Abooz-OA.wav"
+        },
+        {
+            "audio_id": "4C-Abooz-OA",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/4C-Abooz-OA.wav",
+            "tier": "macro",
+            "caption": "The engine of a small machine pulling chains"
+        },
+        {
+            "audio_id": "-xpcu7jOWUI_0.298_9.719",
+            "label": 1,
+            "onset_offset": "0.298_9.719",
+            "filepath": "FakeSound/deepfake_data-longshort/long/-xpcu7jOWUI_0.298_9.719.wav",
+            "tier": "long"
+        },
+        {
+            "audio_id": "-xpcu7jOWUI",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data-longshort/long/-xpcu7jOWUI.wav",
+            "tier": "long"
+        },
+        {
+            "audio_id": "3eSIVCoTR2I_0.799_9.534",
+            "label": 1,
+            "onset_offset": "0.799_9.534",
+            "filepath": "FakeSound/deepfake_data-longshort/long/3eSIVCoTR2I_0.799_9.534.wav",
+            "tier": "macro",
+            "caption": "Crackling noise precedes a fly buzzing",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/3eSIVCoTR2I.wav"
+        },
+        {
+            "audio_id": "3eSIVCoTR2I",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data-longshort/long/3eSIVCoTR2I.wav",
+            "tier": "macro",
+            "caption": "Crackling noise precedes a fly buzzing"
+        },
+        {
+            "audio_id": "IsHsdLjEu_k_0.633_9.813",
+            "label": 1,
+            "onset_offset": "0.633_9.813",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/IsHsdLjEu_k_0.633_9.813.wav",
+            "tier": "macro",
+            "caption": "Motor vehicle changing gears and driving over something",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/IsHsdLjEu_k.wav"
+        },
+        {
+            "audio_id": "IsHsdLjEu_k",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data-longshort/long/IsHsdLjEu_k.wav",
+            "tier": "macro",
+            "caption": "Motor vehicle changing gears and driving over something"
+        },
+        {
+            "audio_id": "2Bru58-Ubp8_0.19_9.167",
+            "label": 1,
+            "onset_offset": "0.19_9.167",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/2Bru58-Ubp8_0.19_9.167.wav",
+            "tier": "macro",
+            "caption": "Distressed animal panting with woman speaking in background",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/2Bru58-Ubp8.wav"
+        },
+        {
+            "audio_id": "2Bru58-Ubp8",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/2Bru58-Ubp8.wav",
+            "tier": "macro",
+            "caption": "Distressed animal panting with woman speaking in background"
+        },
+        {
+            "audio_id": "5MWchKu240k_0.492_9.823",
+            "label": 1,
+            "onset_offset": "0.492_9.823",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/5MWchKu240k_0.492_9.823.wav",
+            "tier": "macro",
+            "caption": "Dog continuously barking while middle aged woman vocalizes in distinct accent and laughs",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/5MWchKu240k.wav"
+        },
+        {
+            "audio_id": "5MWchKu240k",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/5MWchKu240k.wav",
+            "tier": "macro",
+            "caption": "Dog continuously barking while middle aged woman vocalizes in distinct accent and laughs"
+        },
+        {
+            "audio_id": "2AvHBmpoVaI_1.232_9.879",
+            "label": 1,
+            "onset_offset": "1.232_9.879",
+            "filepath": "FakeSound/deepfake_data-longshort/long/2AvHBmpoVaI_1.232_9.879.wav",
+            "tier": "long"
+        },
+        {
+            "audio_id": "2AvHBmpoVaI",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data-longshort/long/2AvHBmpoVaI.wav",
+            "tier": "long"
+        },
+        {
+            "audio_id": "VWNo6X7aecQ_1.719_9.858",
+            "label": 1,
+            "onset_offset": "1.719_9.858",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/VWNo6X7aecQ_1.719_9.858.wav",
+            "tier": "macro",
+            "caption": "A race car is driving as a man talks",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/VWNo6X7aecQ.wav"
+        },
+        {
+            "audio_id": "VWNo6X7aecQ",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/VWNo6X7aecQ.wav",
+            "tier": "macro",
+            "caption": "A race car is driving as a man talks"
+        },
+        {
+            "audio_id": "6uMJRQ0UrGo_1.293_9.782",
+            "label": 1,
+            "onset_offset": "1.293_9.782",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/6uMJRQ0UrGo_1.293_9.782.wav",
+            "tier": "macro",
+            "caption": "An engine runs and a man speaks",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/6uMJRQ0UrGo.wav"
+        },
+        {
+            "audio_id": "6uMJRQ0UrGo",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/6uMJRQ0UrGo.wav",
+            "tier": "macro",
+            "caption": "An engine runs and a man speaks"
+        },
+        {
+            "audio_id": "qO0P57aZBiw_0.411_8.776",
+            "label": 1,
+            "onset_offset": "0.411_8.776",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/qO0P57aZBiw_0.411_8.776.wav",
+            "tier": "macro",
+            "caption": "A steam engine running on railroad tracks as steam heavily hisses",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/qO0P57aZBiw.wav"
+        },
+        {
+            "audio_id": "qO0P57aZBiw",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/qO0P57aZBiw.wav",
+            "tier": "macro",
+            "caption": "A steam engine running on railroad tracks as steam heavily hisses"
+        },
+        {
+            "audio_id": "-8uTrn1Y85U_0.15_9.33",
+            "label": 1,
+            "onset_offset": "0.15_9.33",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/-8uTrn1Y85U_0.15_9.33.wav",
+            "tier": "macro",
+            "caption": "Ducks are quacking and an adult female speaks",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/-8uTrn1Y85U.wav"
+        },
+        {
+            "audio_id": "-8uTrn1Y85U",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/-8uTrn1Y85U.wav",
+            "tier": "macro",
+            "caption": "Ducks are quacking and an adult female speaks"
+        },
+        {
+            "audio_id": "VWKCKIx5vAA_0.133_9.252",
+            "label": 1,
+            "onset_offset": "0.133_9.252",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/VWKCKIx5vAA_0.133_9.252.wav",
+            "tier": "macro",
+            "caption": "Water dripping and gurgling",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/VWKCKIx5vAA.wav"
+        },
+        {
+            "audio_id": "VWKCKIx5vAA",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/VWKCKIx5vAA.wav",
+            "tier": "macro",
+            "caption": "Water dripping and gurgling"
+        },
+        {
+            "audio_id": "lGobidXhUdc_0.597_8.894",
+            "label": 1,
+            "onset_offset": "0.597_8.894",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/lGobidXhUdc_0.597_8.894.wav",
+            "tier": "macro",
+            "caption": "A drill drills through a surface rapidly and then squeaks",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/lGobidXhUdc.wav"
+        },
+        {
+            "audio_id": "lGobidXhUdc",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/lGobidXhUdc.wav",
+            "tier": "macro",
+            "caption": "A drill drills through a surface rapidly and then squeaks"
+        },
+        {
+            "audio_id": "2tBykj--9OI_1.525_9.917",
+            "label": 1,
+            "onset_offset": "1.525_9.917",
+            "filepath": "FakeSound/deepfake_data-longshort/long/2tBykj--9OI_1.525_9.917.wav",
+            "tier": "long"
+        },
+        {
+            "audio_id": "2tBykj--9OI",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data-longshort/long/2tBykj--9OI.wav",
+            "tier": "long"
+        },
+        {
+            "audio_id": "-iY-_JwXe-M_0.041_8.46",
+            "label": 1,
+            "onset_offset": "0.041_8.46",
+            "filepath": "FakeSound/deepfake_data-longshort/long/-iY-_JwXe-M_0.041_8.46.wav",
+            "tier": "long"
+        },
+        {
+            "audio_id": "-iY-_JwXe-M",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data-longshort/long/-iY-_JwXe-M.wav",
+            "tier": "long"
+        },
+        {
+            "audio_id": "7pVFm2NULIY_0.375_9.915",
+            "label": 1,
+            "onset_offset": "0.375_9.915",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/7pVFm2NULIY_0.375_9.915.wav",
+            "tier": "macro",
+            "caption": "A man delivering a speech followed by claps and another man speaking",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/7pVFm2NULIY.wav"
+        },
+        {
+            "audio_id": "7pVFm2NULIY",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/7pVFm2NULIY.wav",
+            "tier": "macro",
+            "caption": "A man delivering a speech followed by claps and another man speaking"
+        },
+        {
+            "audio_id": "juSFBjmcSS0_0.216_8.51",
+            "label": 1,
+            "onset_offset": "0.216_8.51",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/juSFBjmcSS0_0.216_8.51.wav",
+            "tier": "macro",
+            "caption": "A man talks while motorcycle engines work in idle",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/juSFBjmcSS0.wav"
+        },
+        {
+            "audio_id": "juSFBjmcSS0",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/juSFBjmcSS0.wav",
+            "tier": "macro",
+            "caption": "A man talks while motorcycle engines work in idle"
+        },
+        {
+            "audio_id": "AkcczoHIk_Q_0.929_9.121",
+            "label": 1,
+            "onset_offset": "0.929_9.121",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/AkcczoHIk_Q_0.929_9.121.wav",
+            "tier": "macro",
+            "caption": "A murmuring crowd followed by honking horns",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/AkcczoHIk_Q.wav"
+        },
+        {
+            "audio_id": "AkcczoHIk_Q",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/AkcczoHIk_Q.wav",
+            "tier": "macro",
+            "caption": "A murmuring crowd followed by honking horns"
+        },
+        {
+            "audio_id": "ujbhceAPKnM_0.93_9.236",
+            "label": 1,
+            "onset_offset": "0.93_9.236",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/ujbhceAPKnM_0.93_9.236.wav",
+            "tier": "macro",
+            "caption": "Women laugh and someone hiccups",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/ujbhceAPKnM.wav"
+        },
+        {
+            "audio_id": "ujbhceAPKnM",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/ujbhceAPKnM.wav",
+            "tier": "macro",
+            "caption": "Women laugh and someone hiccups"
+        },
+        {
+            "audio_id": "7HWVQfTFKcU_1.122_9.809",
+            "label": 1,
+            "onset_offset": "1.122_9.809",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/7HWVQfTFKcU_1.122_9.809.wav",
+            "tier": "macro",
+            "caption": "A very loud engine accelerating",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/7HWVQfTFKcU.wav"
+        },
+        {
+            "audio_id": "7HWVQfTFKcU",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/7HWVQfTFKcU.wav",
+            "tier": "macro",
+            "caption": "A very loud engine accelerating"
+        },
+        {
+            "audio_id": "5FpYGK5F1CU_0.764_9.797",
+            "label": 1,
+            "onset_offset": "0.764_9.797",
+            "filepath": "FakeSound/deepfake_data-longshort/long/5FpYGK5F1CU_0.764_9.797.wav",
+            "tier": "long"
+        },
+        {
+            "audio_id": "5FpYGK5F1CU",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data-longshort/long/5FpYGK5F1CU.wav",
+            "tier": "long"
+        },
+        {
+            "audio_id": "zPVSeGOujoo_0.521_8.526",
+            "label": 1,
+            "onset_offset": "0.521_8.526",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/zPVSeGOujoo_0.521_8.526.wav",
+            "tier": "macro",
+            "caption": "Speedboat motors are roaring in the foreground, and speech is occurring in the background",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/zPVSeGOujoo.wav"
+        },
+        {
+            "audio_id": "zPVSeGOujoo",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/zPVSeGOujoo.wav",
+            "tier": "macro",
+            "caption": "Speedboat motors are roaring in the foreground, and speech is occurring in the background"
+        },
+        {
+            "audio_id": "qN2WeWvBk8Q_0.918_9.691",
+            "label": 1,
+            "onset_offset": "0.918_9.691",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/qN2WeWvBk8Q_0.918_9.691.wav",
+            "tier": "macro",
+            "caption": "Fire truck sirens",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/qN2WeWvBk8Q.wav"
+        },
+        {
+            "audio_id": "qN2WeWvBk8Q",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/qN2WeWvBk8Q.wav",
+            "tier": "macro",
+            "caption": "Fire truck sirens"
+        },
+        {
+            "audio_id": "e5I67Fyqz_U_1.054_9.178",
+            "label": 1,
+            "onset_offset": "1.054_9.178",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/e5I67Fyqz_U_1.054_9.178.wav",
+            "tier": "macro",
+            "caption": "Clanking with intermittent beeping",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/e5I67Fyqz_U.wav"
+        },
+        {
+            "audio_id": "e5I67Fyqz_U",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/e5I67Fyqz_U.wav",
+            "tier": "macro",
+            "caption": "Clanking with intermittent beeping"
+        },
+        {
+            "audio_id": "2VRnQ7nejuk_1.293_9.782",
+            "label": 1,
+            "onset_offset": "1.293_9.782",
+            "filepath": "FakeSound/deepfake_data-longshort/long/2VRnQ7nejuk_1.293_9.782.wav",
+            "tier": "long"
+        },
+        {
+            "audio_id": "2VRnQ7nejuk",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data-longshort/long/2VRnQ7nejuk.wav",
+            "tier": "long"
+        },
+        {
+            "audio_id": "hORFsem_42M_0.386_9.883",
+            "label": 1,
+            "onset_offset": "0.386_9.883",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/hORFsem_42M_0.386_9.883.wav",
+            "tier": "macro",
+            "caption": "A toilet flushing and clanging sounds",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/hORFsem_42M.wav"
+        },
+        {
+            "audio_id": "hORFsem_42M",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/hORFsem_42M.wav",
+            "tier": "macro",
+            "caption": "A toilet flushing and clanging sounds"
+        },
+        {
+            "audio_id": "1OIm8vLHCwo_1.066_9.789",
+            "label": 1,
+            "onset_offset": "1.066_9.789",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/1OIm8vLHCwo_1.066_9.789.wav",
+            "tier": "macro",
+            "caption": "An adult female speaks and a cat meows",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/1OIm8vLHCwo.wav"
+        },
+        {
+            "audio_id": "1OIm8vLHCwo",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/1OIm8vLHCwo.wav",
+            "tier": "macro",
+            "caption": "An adult female speaks and a cat meows"
+        },
+        {
+            "audio_id": "9GNe9_gjj6g_0.655_9.83",
+            "label": 1,
+            "onset_offset": "0.655_9.83",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/9GNe9_gjj6g_0.655_9.83.wav",
+            "tier": "macro",
+            "caption": "A buzzing followed by a bee flying",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/9GNe9_gjj6g.wav"
+        },
+        {
+            "audio_id": "9GNe9_gjj6g",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/9GNe9_gjj6g.wav",
+            "tier": "macro",
+            "caption": "A buzzing followed by a bee flying"
+        },
+        {
+            "audio_id": "MwetCB3Z1OY_0.074_9.256",
+            "label": 1,
+            "onset_offset": "0.074_9.256",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/MwetCB3Z1OY_0.074_9.256.wav",
+            "tier": "macro",
+            "caption": "Gunfire with people talking",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/MwetCB3Z1OY.wav"
+        },
+        {
+            "audio_id": "MwetCB3Z1OY",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/MwetCB3Z1OY.wav",
+            "tier": "macro",
+            "caption": "Gunfire with people talking"
+        },
+        {
+            "audio_id": "3J7NzRVaixM_0.296_8.69",
+            "label": 1,
+            "onset_offset": "0.296_8.69",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/3J7NzRVaixM_0.296_8.69.wav",
+            "tier": "macro",
+            "caption": "The wind is blowing, an engine runs, and tires squeal",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/3J7NzRVaixM.wav"
+        },
+        {
+            "audio_id": "3J7NzRVaixM",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/3J7NzRVaixM.wav",
+            "tier": "macro",
+            "caption": "The wind is blowing, an engine runs, and tires squeal"
+        },
+        {
+            "audio_id": "1MuDD4JVnQc_0.196_9.652",
+            "label": 1,
+            "onset_offset": "0.196_9.652",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/1MuDD4JVnQc_0.196_9.652.wav",
+            "tier": "macro",
+            "caption": "A child is crying then a woman speaks",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/1MuDD4JVnQc.wav"
+        },
+        {
+            "audio_id": "1MuDD4JVnQc",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/1MuDD4JVnQc.wav",
+            "tier": "macro",
+            "caption": "A child is crying then a woman speaks"
+        },
+        {
+            "audio_id": "5MRDu6qgla0_0.764_9.797",
+            "label": 1,
+            "onset_offset": "0.764_9.797",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/5MRDu6qgla0_0.764_9.797.wav",
+            "tier": "macro",
+            "caption": "A crowd of people are talking and a police siren goes off loudly",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/5MRDu6qgla0.wav"
+        },
+        {
+            "audio_id": "5MRDu6qgla0",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/5MRDu6qgla0.wav",
+            "tier": "macro",
+            "caption": "A crowd of people are talking and a police siren goes off loudly"
+        },
+        {
+            "audio_id": "3v1DCwFOQhc_0.154_9.717",
+            "label": 1,
+            "onset_offset": "0.154_9.717",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/3v1DCwFOQhc_0.154_9.717.wav",
+            "tier": "macro",
+            "caption": "People speak while a pig squeals",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/3v1DCwFOQhc.wav"
+        },
+        {
+            "audio_id": "3v1DCwFOQhc",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/3v1DCwFOQhc.wav",
+            "tier": "macro",
+            "caption": "People speak while a pig squeals"
+        },
+        {
+            "audio_id": "2DmtgJv97-U_0.224_8.491",
+            "label": 1,
+            "onset_offset": "0.224_8.491",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/2DmtgJv97-U_0.224_8.491.wav",
+            "tier": "macro",
+            "caption": "A dog barks and whimpers",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/2DmtgJv97-U.wav"
+        },
+        {
+            "audio_id": "2DmtgJv97-U",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/2DmtgJv97-U.wav",
+            "tier": "macro",
+            "caption": "A dog barks and whimpers"
+        },
+        {
+            "audio_id": "864Hhm1eOlg_0.057_8.189",
+            "label": 1,
+            "onset_offset": "0.057_8.189",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/864Hhm1eOlg_0.057_8.189.wav",
+            "tier": "macro",
+            "caption": "A woman is speaking and rain is falling lightly",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/864Hhm1eOlg.wav"
+        },
+        {
+            "audio_id": "864Hhm1eOlg",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/864Hhm1eOlg.wav",
+            "tier": "macro",
+            "caption": "A woman is speaking and rain is falling lightly"
+        },
+        {
+            "audio_id": "r1nicOVtvkQ_1.223_9.66",
+            "label": 1,
+            "onset_offset": "1.223_9.66",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/r1nicOVtvkQ_1.223_9.66.wav",
+            "tier": "macro",
+            "caption": "A woman talks nearby as water pours",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/r1nicOVtvkQ.wav"
+        },
+        {
+            "audio_id": "r1nicOVtvkQ",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/r1nicOVtvkQ.wav",
+            "tier": "macro",
+            "caption": "A woman talks nearby as water pours"
+        },
+        {
+            "audio_id": "-67q0yYR0zk_1.081_9.623",
+            "label": 1,
+            "onset_offset": "1.081_9.623",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/-67q0yYR0zk_1.081_9.623.wav",
+            "tier": "macro",
+            "caption": "People in a small crowd are speaking and a dog barks",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/-67q0yYR0zk.wav"
+        },
+        {
+            "audio_id": "-67q0yYR0zk",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/-67q0yYR0zk.wav",
+            "tier": "macro",
+            "caption": "People in a small crowd are speaking and a dog barks"
+        },
+        {
+            "audio_id": "1LXNab4QZa8_0.93_9.236",
+            "label": 1,
+            "onset_offset": "0.93_9.236",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/1LXNab4QZa8_0.93_9.236.wav",
+            "tier": "macro",
+            "caption": "A man speaking",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/1LXNab4QZa8.wav"
+        },
+        {
+            "audio_id": "1LXNab4QZa8",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/1LXNab4QZa8.wav",
+            "tier": "macro",
+            "caption": "A man speaking"
+        },
+        {
+            "audio_id": "6pmMNLLcU9Q_1.311_9.778",
+            "label": 1,
+            "onset_offset": "1.311_9.778",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/6pmMNLLcU9Q_1.311_9.778.wav",
+            "tier": "macro",
+            "caption": "A large motor idles with some hydraulic hissing",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/6pmMNLLcU9Q.wav"
+        },
+        {
+            "audio_id": "6pmMNLLcU9Q",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/6pmMNLLcU9Q.wav",
+            "tier": "macro",
+            "caption": "A large motor idles with some hydraulic hissing"
+        },
+        {
+            "audio_id": "0VJa1W21b_o_0.117_9.47",
+            "label": 1,
+            "onset_offset": "0.117_9.47",
+            "filepath": "FakeSound/deepfake_data-longshort/long/0VJa1W21b_o_0.117_9.47.wav",
+            "tier": "long"
+        },
+        {
+            "audio_id": "0VJa1W21b_o",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data-longshort/long/0VJa1W21b_o.wav",
+            "tier": "long"
+        },
+        {
+            "audio_id": "3uy7uenEb1Q_0.36_9.112",
+            "label": 1,
+            "onset_offset": "0.36_9.112",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/3uy7uenEb1Q_0.36_9.112.wav",
+            "tier": "macro",
+            "caption": "Water runs and a frog gurgles then a man starts singing",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/3uy7uenEb1Q.wav"
+        },
+        {
+            "audio_id": "3uy7uenEb1Q",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/3uy7uenEb1Q.wav",
+            "tier": "macro",
+            "caption": "Water runs and a frog gurgles then a man starts singing"
+        },
+        {
+            "audio_id": "1O7-QuhweZE_0.33_9.607",
+            "label": 1,
+            "onset_offset": "0.33_9.607",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/1O7-QuhweZE_0.33_9.607.wav",
+            "tier": "macro",
+            "caption": "Children screaming in the background as the sound of water flowing by",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/1O7-QuhweZE.wav"
+        },
+        {
+            "audio_id": "1O7-QuhweZE",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/1O7-QuhweZE.wav",
+            "tier": "macro",
+            "caption": "Children screaming in the background as the sound of water flowing by"
+        },
+        {
+            "audio_id": "pCfGoyPMW-k_1.122_9.809",
+            "label": 1,
+            "onset_offset": "1.122_9.809",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/pCfGoyPMW-k_1.122_9.809.wav",
+            "tier": "macro",
+            "caption": "A man speaks, another man speaks with natural outside noise in the background",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/pCfGoyPMW-k.wav"
+        },
+        {
+            "audio_id": "pCfGoyPMW-k",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/pCfGoyPMW-k.wav",
+            "tier": "macro",
+            "caption": "A man speaks, another man speaks with natural outside noise in the background"
+        },
+        {
+            "audio_id": "7-3WE3wSv5s_1.44_9.94",
+            "label": 1,
+            "onset_offset": "1.44_9.94",
+            "filepath": "FakeSound/deepfake_data-longshort/long/7-3WE3wSv5s_1.44_9.94.wav",
+            "tier": "long"
+        },
+        {
+            "audio_id": "7-3WE3wSv5s",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data-longshort/long/7-3WE3wSv5s.wav",
+            "tier": "long"
+        },
+        {
+            "audio_id": "1iaEDqdYliE_0.085_8.562",
+            "label": 1,
+            "onset_offset": "0.085_8.562",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/1iaEDqdYliE_0.085_8.562.wav",
+            "tier": "macro",
+            "caption": "A man is speaking and cars are speeding by",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/1iaEDqdYliE.wav"
+        },
+        {
+            "audio_id": "1iaEDqdYliE",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/1iaEDqdYliE.wav",
+            "tier": "macro",
+            "caption": "A man is speaking and cars are speeding by"
+        },
+        {
+            "audio_id": "4ECjndZzbMU_0.927_9.606",
+            "label": 1,
+            "onset_offset": "0.927_9.606",
+            "filepath": "FakeSound/deepfake_data-longshort/long/4ECjndZzbMU_0.927_9.606.wav",
+            "tier": "long"
+        },
+        {
+            "audio_id": "4ECjndZzbMU",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data-longshort/long/4ECjndZzbMU.wav",
+            "tier": "long"
+        },
+        {
+            "audio_id": "7B4rDyFBT_U_0.153_8.808",
+            "label": 1,
+            "onset_offset": "0.153_8.808",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/7B4rDyFBT_U_0.153_8.808.wav",
+            "tier": "macro",
+            "caption": "Multiple young puppies were crying and whimpering",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/7B4rDyFBT_U.wav"
+        },
+        {
+            "audio_id": "7B4rDyFBT_U",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/7B4rDyFBT_U.wav",
+            "tier": "macro",
+            "caption": "Multiple young puppies were crying and whimpering"
+        },
+        {
+            "audio_id": "R8z8J9klk70_0.188_9.871",
+            "label": 1,
+            "onset_offset": "0.188_9.871",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/R8z8J9klk70_0.188_9.871.wav",
+            "tier": "macro",
+            "caption": "A camera is shuffled and a clang occurs",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/R8z8J9klk70.wav"
+        },
+        {
+            "audio_id": "R8z8J9klk70",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/R8z8J9klk70.wav",
+            "tier": "macro",
+            "caption": "A camera is shuffled and a clang occurs"
+        },
+        {
+            "audio_id": "lQPxJ3M0Ves_0.116_9.646",
+            "label": 1,
+            "onset_offset": "0.116_9.646",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/lQPxJ3M0Ves_0.116_9.646.wav",
+            "tier": "macro",
+            "caption": "A baby is crying and then a man and woman are laughing.",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/lQPxJ3M0Ves.wav"
+        },
+        {
+            "audio_id": "lQPxJ3M0Ves",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/lQPxJ3M0Ves.wav",
+            "tier": "macro",
+            "caption": "A baby is crying and then a man and woman are laughing."
+        },
+        {
+            "audio_id": "7pabsgabzQU_0.23_9.111",
+            "label": 1,
+            "onset_offset": "0.23_9.111",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/7pabsgabzQU_0.23_9.111.wav",
+            "tier": "macro",
+            "caption": "A loud vehicle engine",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/7pabsgabzQU.wav"
+        },
+        {
+            "audio_id": "7pabsgabzQU",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/7pabsgabzQU.wav",
+            "tier": "macro",
+            "caption": "A loud vehicle engine"
+        },
+        {
+            "audio_id": "ib3gLv8yhlU_0.767_9.275",
+            "label": 1,
+            "onset_offset": "0.767_9.275",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/ib3gLv8yhlU_0.767_9.275.wav",
+            "tier": "macro",
+            "caption": "Water trickling as female voices laughing",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/ib3gLv8yhlU.wav"
+        },
+        {
+            "audio_id": "ib3gLv8yhlU",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/ib3gLv8yhlU.wav",
+            "tier": "macro",
+            "caption": "Water trickling as female voices laughing"
+        },
+        {
+            "audio_id": "4Hs1yZu1GAU_0.386_9.999",
+            "label": 1,
+            "onset_offset": "0.386_9.999",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/4Hs1yZu1GAU_0.386_9.999.wav",
+            "tier": "macro",
+            "caption": "Food is sizzling dishes are clanging together and a woman is speaking",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/4Hs1yZu1GAU.wav"
+        },
+        {
+            "audio_id": "4Hs1yZu1GAU",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/4Hs1yZu1GAU.wav",
+            "tier": "macro",
+            "caption": "Food is sizzling dishes are clanging together and a woman is speaking"
+        },
+        {
+            "audio_id": "HvTYMLSRBoY_1.376_9.777",
+            "label": 1,
+            "onset_offset": "1.376_9.777",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/HvTYMLSRBoY_1.376_9.777.wav",
+            "tier": "macro",
+            "caption": "Loud wind noises with someone talking and laughing",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/HvTYMLSRBoY.wav"
+        },
+        {
+            "audio_id": "HvTYMLSRBoY",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/HvTYMLSRBoY.wav",
+            "tier": "macro",
+            "caption": "Loud wind noises with someone talking and laughing"
+        },
+        {
+            "audio_id": "10MRxp2q8R4_0.961_9.758",
+            "label": 1,
+            "onset_offset": "0.961_9.758",
+            "filepath": "FakeSound/deepfake_data-longshort/long/10MRxp2q8R4_0.961_9.758.wav",
+            "tier": "macro",
+            "caption": "Female speaker giving a speech",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/10MRxp2q8R4.wav"
+        },
+        {
+            "audio_id": "10MRxp2q8R4",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data-longshort/long/10MRxp2q8R4.wav",
+            "tier": "macro",
+            "caption": "Female speaker giving a speech"
+        },
+        {
+            "audio_id": "4ZlRt0UHWb8_0.396_9.897",
+            "label": 1,
+            "onset_offset": "0.396_9.897",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/4ZlRt0UHWb8_0.396_9.897.wav",
+            "tier": "macro",
+            "caption": "Low static and loud snoring followed by man speaking lightly",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/4ZlRt0UHWb8.wav"
+        },
+        {
+            "audio_id": "4ZlRt0UHWb8",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/4ZlRt0UHWb8.wav",
+            "tier": "macro",
+            "caption": "Low static and loud snoring followed by man speaking lightly"
+        },
+        {
+            "audio_id": "K2aCJSsrT9k_0.33_9.607",
+            "label": 1,
+            "onset_offset": "0.33_9.607",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/K2aCJSsrT9k_0.33_9.607.wav",
+            "tier": "macro",
+            "caption": "Static crackles, a person speaks in a distorted way, and water flows",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/K2aCJSsrT9k.wav"
+        },
+        {
+            "audio_id": "K2aCJSsrT9k",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/K2aCJSsrT9k.wav",
+            "tier": "macro",
+            "caption": "Static crackles, a person speaks in a distorted way, and water flows"
+        },
+        {
+            "audio_id": "0UlXhWYb9Js_0.243_9.853",
+            "label": 1,
+            "onset_offset": "0.243_9.853",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/0UlXhWYb9Js_0.243_9.853.wav",
+            "tier": "macro",
+            "caption": "A whistle blows then a car comes and passes very fast",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/0UlXhWYb9Js.wav"
+        },
+        {
+            "audio_id": "0UlXhWYb9Js",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/0UlXhWYb9Js.wav",
+            "tier": "macro",
+            "caption": "A whistle blows then a car comes and passes very fast"
+        },
+        {
+            "audio_id": "4ZdX1Hl6mhs_0.284_9.733",
+            "label": 1,
+            "onset_offset": "0.284_9.733",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/4ZdX1Hl6mhs_0.284_9.733.wav",
+            "tier": "macro",
+            "caption": "A dog and a man are howling together",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/4ZdX1Hl6mhs.wav"
+        },
+        {
+            "audio_id": "4ZdX1Hl6mhs",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/4ZdX1Hl6mhs.wav",
+            "tier": "macro",
+            "caption": "A dog and a man are howling together"
+        },
+        {
+            "audio_id": "bMnJl__M898_0.069_9.763",
+            "label": 1,
+            "onset_offset": "0.069_9.763",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/bMnJl__M898_0.069_9.763.wav",
+            "tier": "macro",
+            "caption": "An engine hums along with traffic noise in the background and a few words are spoken on a microphone",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/bMnJl__M898.wav"
+        },
+        {
+            "audio_id": "bMnJl__M898",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/bMnJl__M898.wav",
+            "tier": "macro",
+            "caption": "An engine hums along with traffic noise in the background and a few words are spoken on a microphone"
+        },
+        {
+            "audio_id": "bGNAE6mVoD8_1.23_9.676",
+            "label": 1,
+            "onset_offset": "1.23_9.676",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/bGNAE6mVoD8_1.23_9.676.wav",
+            "tier": "macro",
+            "caption": "Grease sizzles as a condiment is shaken then put down",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/bGNAE6mVoD8.wav"
+        },
+        {
+            "audio_id": "bGNAE6mVoD8",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/bGNAE6mVoD8.wav",
+            "tier": "macro",
+            "caption": "Grease sizzles as a condiment is shaken then put down"
+        },
+        {
+            "audio_id": "-ROt5_xhcyo_1.153_9.976",
+            "label": 1,
+            "onset_offset": "1.153_9.976",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/-ROt5_xhcyo_1.153_9.976.wav",
+            "tier": "macro",
+            "caption": "Vibration and noise of a working motor",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/-ROt5_xhcyo.wav"
+        },
+        {
+            "audio_id": "-ROt5_xhcyo",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/-ROt5_xhcyo.wav",
+            "tier": "macro",
+            "caption": "Vibration and noise of a working motor"
+        },
+        {
+            "audio_id": "g0EXbG41tRY_0.179_9.294",
+            "label": 1,
+            "onset_offset": "0.179_9.294",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/g0EXbG41tRY_0.179_9.294.wav",
+            "tier": "macro",
+            "caption": "Rumble of an engine followed by an abrupt sharp tone then an engine accelerating",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/g0EXbG41tRY.wav"
+        },
+        {
+            "audio_id": "g0EXbG41tRY",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/g0EXbG41tRY.wav",
+            "tier": "macro",
+            "caption": "Rumble of an engine followed by an abrupt sharp tone then an engine accelerating"
+        },
+        {
+            "audio_id": "5lbuEq794J0_1.542_9.775",
+            "label": 1,
+            "onset_offset": "1.542_9.775",
+            "filepath": "FakeSound/deepfake_data-longshort/long/5lbuEq794J0_1.542_9.775.wav",
+            "tier": "long"
+        },
+        {
+            "audio_id": "5lbuEq794J0",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data-longshort/long/5lbuEq794J0.wav",
+            "tier": "long"
+        },
+        {
+            "audio_id": "kxZQJiOLSqE_0.381_8.755",
+            "label": 1,
+            "onset_offset": "0.381_8.755",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/kxZQJiOLSqE_0.381_8.755.wav",
+            "tier": "macro",
+            "caption": "Honking of a horn of a passing train",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/kxZQJiOLSqE.wav"
+        },
+        {
+            "audio_id": "kxZQJiOLSqE",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/kxZQJiOLSqE.wav",
+            "tier": "macro",
+            "caption": "Honking of a horn of a passing train"
+        },
+        {
+            "audio_id": "3vCRry3mHjk_0.23_9.219",
+            "label": 1,
+            "onset_offset": "0.23_9.219",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/3vCRry3mHjk_0.23_9.219.wav",
+            "tier": "macro",
+            "caption": "A machine that is running, tapping and making winding noises",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/3vCRry3mHjk.wav"
+        },
+        {
+            "audio_id": "3vCRry3mHjk",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/3vCRry3mHjk.wav",
+            "tier": "macro",
+            "caption": "A machine that is running, tapping and making winding noises"
+        },
+        {
+            "audio_id": "qs3gjtxuHjk_0.133_9.252",
+            "label": 1,
+            "onset_offset": "0.133_9.252",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/qs3gjtxuHjk_0.133_9.252.wav",
+            "tier": "macro",
+            "caption": "A constant buzzing with voices in the background",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/qs3gjtxuHjk.wav"
+        },
+        {
+            "audio_id": "qs3gjtxuHjk",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/qs3gjtxuHjk.wav",
+            "tier": "macro",
+            "caption": "A constant buzzing with voices in the background"
+        },
+        {
+            "audio_id": "3R63urpBOyE_0.282_9.578",
+            "label": 1,
+            "onset_offset": "0.282_9.578",
+            "filepath": "FakeSound/deepfake_data-longshort/long/3R63urpBOyE_0.282_9.578.wav",
+            "tier": "long"
+        },
+        {
+            "audio_id": "3R63urpBOyE",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data-longshort/long/3R63urpBOyE.wav",
+            "tier": "long"
+        },
+        {
+            "audio_id": "ApQ_wrcfvvQ_0.087_8.788",
+            "label": 1,
+            "onset_offset": "0.087_8.788",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/ApQ_wrcfvvQ_0.087_8.788.wav",
+            "tier": "macro",
+            "caption": "A large motor vehicle engine is operating and decelerating, an adult male speaks briefly, then an adult male speaks in the background",
+            "chunk_path": "/content/drive/MyDrive/ML/audio_generate/raw_audio/ApQ_wrcfvvQ.wav"
+        },
+        {
+            "audio_id": "ApQ_wrcfvvQ",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "/content/drive/MyDrive/ML/audio_generate/dataset/spoofed/macro/ApQ_wrcfvvQ.wav",
+            "tier": "macro",
+            "caption": "A large motor vehicle engine is operating and decelerating, an adult male speaks briefly, then an adult male speaks in the background"
+        }
+    ]
+}
